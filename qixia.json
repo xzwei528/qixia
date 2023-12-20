@@ -1,4 +1,4 @@
-﻿{
+{
     "spider": "./spider.jar",
     "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
  "lives": [
@@ -44,7 +44,7 @@
 {"key":"优酷","name":"📚七夏┃游酷","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/youku.js"},
     {
       "key": "腾讯",
-      "name": "📚七夏┃企鹅",
+      "name": "📚七夏┃疼讯",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./lib/tengxun.js"
