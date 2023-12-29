@@ -1,5 +1,5 @@
-📡关于软件,#genre#
-观看有问题联系七夏,
+📡关于软件 👉,#genre#
+使用问题请联系七夏
 
 📡央视频道,#genre#
 CCTV1,http://111.13.111.242/000000001000PLTV/88888888/224/3221236219/1.m3u8?HlsProfileId=
@@ -40,7 +40,6 @@ CCTV13,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/32212262
 CCTV14,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226193/index.m3u8
 CCTV15,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225785/index.m3u8
 CCTV16,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8
-
 📡央视2K 👉,#genre#
 CCTV-1    2K,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8
 CCTV-2    2K,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226224/index.m3u8
@@ -1079,6 +1078,7 @@ BSTV图文,http://alivealone.litenews.cn/17/7ea8010d70524912b41c92aaa5318ea9.flv
 [河南]鹿邑新闻频道,http://tvpull.dxhmt.cn:9081/tv/11628-1.m3u8?zhend
 [河南]西华综合频道,http://tvpull.dxhmt.cn:9081/tv/11622-1.m3u8?zhend
 [河南]新蔡综合,http://tvpull.dxhmt.cn:9081/tv/11729-1.m3u8?zhend
+[河南]罗山综合,http://tvpull.dxhmt.cn:9081/tv/11521-1.m3u8
 [河南]卫辉综合频道,http://tvpull.dxhmt.cn:9081/tv/10781-1.m3u8?zhend
 [河南]新乡县电视台,http://tvpull.dxhmt.cn:9081/tv/10721-1.m3u8?zhend
 [河南]灵宝新闻综合,http://tvpull.dxhmt.cn:9081/tv/11282-1.m3u8?zhend
