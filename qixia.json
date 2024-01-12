@@ -39,7 +39,14 @@
       "changeable": 0,
       "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$弹"
     },
-{"key": "kkys","name": "📚七夏┃快看","type": 3,"api": "./lib/kkys_open.js"},
+     		     {
+        "key": "kkys",
+	"name": "📚七夏┃快看",
+	"type": 3,
+	"api": "./lib/kkys_open.js",
+	"searchable": 1,
+        "quickSearch": 1,
+       "filterable": 1,},
 {"key":"芒果","name":"📚七夏┃芒芒","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/mangguo.js"},
 {"key":"爱奇异","name":"📚七夏┃奇异","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/aiqiyi.js"},
 {"key":"优酷","name":"📚七夏┃游酷","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/youku.js"},
